@@ -2,3 +2,4 @@ The Software Development Life Cycle (SDLC) refers to a methodology with clearly 
 Requirement analysis
 Planning
 Software design such as architectural design
+Software development
