@@ -4,3 +4,4 @@ Optimizes the Entire Business
 In other words, be more adaptive and data-driven for alignment with customer and business needs.
 Improves Speed and Stability of Software Development and Deployment
 A DevOps engineer introduces processes, tools, and methodologies to balance needs throughout the software development life cycle, from coding and deployment, to maintenance and updates.
+Development teams and IT operations teams can have different skills and different goals. Developers want to introduce new features to an application, while operations teams want to preserve the stability of an application once it is released. 
