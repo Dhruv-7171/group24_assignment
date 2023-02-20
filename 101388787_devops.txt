@@ -3,3 +3,4 @@ BASH
 The CLI
 GitHub
 Version Control for DevOps
+DevOps roles & responsibilities
