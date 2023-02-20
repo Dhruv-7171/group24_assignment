@@ -7,3 +7,4 @@ gitbash
 Version Control for DevOps
 Developer Operations Landscape
 Preparing and Hosting Automating Software Builds
+Preparing Data storage and cloud databases
