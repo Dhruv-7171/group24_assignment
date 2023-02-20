@@ -5,3 +5,4 @@ GitHub
 Version Control for DevOps
 DevOps roles & responsibilities
 DevOps culture and lifecycle
+- Introduction to build tools
