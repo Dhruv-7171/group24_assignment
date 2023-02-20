@@ -4,3 +4,4 @@ Planning
 Software design such as architectural design
 Software development
 Testing
+Deployment
