@@ -2,3 +2,4 @@ The late DevOps authority Robert Stroud said DevOps is all about "fueling busine
 A successful DevOps initiative requires a culture—or mindset—change that brings greater collaboration between multiple teams—product, engineering, security, IT, operations and so on—as well as automation to better achieve business goals.
 Optimizes the Entire Business
 In other words, be more adaptive and data-driven for alignment with customer and business needs.
+Improves Speed and Stability of Software Development and Deployment
